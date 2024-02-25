@@ -1,9 +1,11 @@
 # PointNetLK: Point Cloud Registration using PointNet
 
+This is a fork to refactor PointNetLK according to PyTorch conventions.
+
 ### [Video](https://youtu.be/J2ClR5OZuLc)
 
 Source Code Author:
-Yasuhiro Aoki
+Yasuhiro Aoki, August Weinbren
 
 ### Requires:
 * PyTorch 0.4.0 (perhaps, 0.4.1 (the latest) will be OK.) and torchvision
